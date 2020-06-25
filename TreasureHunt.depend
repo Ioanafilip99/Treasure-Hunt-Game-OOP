@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1556115567 source:d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator.cpp
+	<iostream>
+	"cautator.h"
+
+1556197597 d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator.h
+
+1556211676 source:d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator1.cpp
+	"cautator1.h"
+
+1556197597 d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator1.h
+	"cautator.h"
+	"harta.h"
+
+1556198378 d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\harta.h
+	<iostream>
+
+1556211676 source:d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator2.cpp
+	"cautator2.h"
+
+1556197597 d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator2.h
+	"cautator.h"
+	"harta.h"
+
+1556211676 source:d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator3.cpp
+	"cautator3.h"
+
+1556197597 d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator3.h
+	"cautator.h"
+	"harta.h"
+
+1556211676 source:d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator4.cpp
+	"cautator4.h"
+
+1556197597 d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\cautator4.h
+	"cautator.h"
+	"harta.h"
+
+1556211676 source:d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\harta.cpp
+	<stdlib.h>
+	<time.h>
+	"harta.h"
+
+1556211074 source:d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\main.cpp
+	<iostream>
+	<windows.h>
+	"joc.h"
+
+1556210099 d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\joc.h
+	"cautator.h"
+	"harta.h"
+	<vector>
+
+1556211320 source:d:\facultate\an 1\sem 2\poo\laborator\tema2\treasurehunt\joc.cpp
+	<vector>
+	"joc.h"
+	"cautator1.h"
+	"cautator2.h"
+	"cautator3.h"
+	"cautator4.h"
+
